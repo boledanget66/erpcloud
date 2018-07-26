@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/KCktIxyvqi"}
-if(x=="2"){xxx="/J7km5mS1RJ"}
-if(x=="3"){xxx="/T88FHxljMD"}
-if(x=="4"){xxx="/LMVehHtVV2"}
-if(x=="5"){xxx="/lNECvh3Ctt"}a_to_ve[i].href="https://t.co"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/07/on-premise-erp-to-cloud-erp-5-reasons.html"}
+if(x=="2"){xxx="/2018/07/7-tips-to-develop-web-based-erp-system.html"}
+if(x=="3"){xxx="/2018/07/comparing-cloud-erp-systems-whos-winning.html"}
+if(x=="4"){xxx="/2018/07/cloud-computing-and-new-era-of-erp.html"}
+if(x=="5"){xxx="/2018/07/cloud-from-top-business-leaders-on.html"}a_to_ve[i].href="http://www.erp-software-on-cloud.review"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
