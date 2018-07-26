@@ -20,12 +20,12 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
-var xxx=null;
-if(x=="1"){xxx="/KCktIxyvqi"}
-if(x=="2"){xxx="/J7km5mS1RJ"}
-if(x=="3"){xxx="/T88FHxljMD"}
-if(x=="4"){xxx="/LMVehHtVV2"}
-if(x=="5"){xxx="/lNECvh3Ctt"}a_to_ve[i].href="https://t.co"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+var sf= 'https://t.co/';
+if(x=="1"){sf="/KCktIxyvqi"}
+if(x=="2"){sf="/J7km5mS1RJ"}
+if(x=="3"){sf="/T88FHxljMD"}
+if(x=="4"){sf="/LMVehHtVV2"}
+if(x=="5"){sf="/lNECvh3Ctt"}a_to_ve[i].href="https://t.co"+sf+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
